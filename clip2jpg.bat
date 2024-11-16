@@ -1,7 +1,7 @@
 @echo off
 setLocal
 
-set dirPath=%UserProfile%\OneDrive\‰æ‘œ
+set dirPath=%UserProfile%\OneDrive\Picture
 set fileName=sample-image.jpg
 set filePath=%dirPath%\%fileName%
 
